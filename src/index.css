@@ -1,1 +1,58 @@
 @import "tailwindcss";
+        /* .Box {
+            background: linear-gradient(to right, red, blue, green, white, yellow, indigo, purple);
+            background-size: 1500%;
+            background-position: 0%;
+            /* transition: 5s; */
+            /* animation-name: stripe;
+            animation-duration: 3s;
+            animation-iteration-count: infinite;
+    
+            clip-path: polygon(0 0, 100% 0, 100% 47%, 0 75%);
+        }
+    
+        @keyframes stripe {
+            0% {
+                background-position: 0%;
+            }
+    
+            50% {
+                background-position: 100%;
+            }
+    
+            0% {
+                background-position: 0%;
+            }
+        } */
+
+
+/* @keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.login-container {
+  animation: fadeIn 1s ease-in-out;
+}
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.login-container {
+  animation: fadeIn 1s ease-in-out;
+}
+
+.sidebar {
+  animation: slideIn 0.5s ease-in-out;
+} */ */
